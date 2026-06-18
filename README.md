@@ -148,7 +148,7 @@ In addition to the methods above for removing individual components, you can com
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - Davide Carta for starting the concept and allowing it to be developed without his future guidance. We've done what we can with the mod and hope it honours both what he had in mind and what people may have been expecting of the original.
 - Diana: When my own personal life "hit the fan", Diana continued the development and the coding of the mod as my attentions and efforts were elsewhere. She took it upon her herself to fix bugs that I'd missed as well as adding additional material. She also saw fit to beta test on her own before sending the material onto the gang. The mod owes her much.
 - Dancer Fitz: One of the mainstays of the team in that she has submitted and written vast amounts of banter, dialogue, ideas and so on for this mod. We also owe her a lot for improving the standard of English vastly from Davide's original version (he was an Italian native). Her own impact cannot be fairly assessed but its all appreciated.
