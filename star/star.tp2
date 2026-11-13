@@ -95,6 +95,9 @@ LANGUAGE ~Russian (translation: Prowler)~
          ~russian~
          ~star/lang/russian/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~star/lang/schinese/setup.tra~
 
 /* ====================================================== *
  *    Silver Star NPC Mod for BGII:SoA  (main component)  *
